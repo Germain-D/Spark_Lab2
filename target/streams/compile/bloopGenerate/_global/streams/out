@@ -1,0 +1,4 @@
+[debug] [spark-df] Classpath dependencies List()
+[debug] [spark-df] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'spark-df' to '/home/germain/Downloads/spark-df/.bloop/spark-df.json'
+[success] Generated .bloop/spark-df.json

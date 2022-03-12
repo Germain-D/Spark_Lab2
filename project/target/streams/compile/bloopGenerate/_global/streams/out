@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[spark-df-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[spark-df-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'spark-df-build' to '/home/germain/Downloads/spark-df/project/.bloop/spark-df-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/spark-df-build.json[0m
